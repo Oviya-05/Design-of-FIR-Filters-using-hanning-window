@@ -48,7 +48,12 @@ ylabel( 'Magnitude in dB');
 ~~~
 
 # OUTPUT
-<img width="1587" height="591" alt="image" src="https://github.com/user-attachments/assets/8eb7b51c-b852-449f-bff0-e7c0b410ac01" />
+
+<img width="592" height="477" alt="image" src="https://github.com/user-attachments/assets/5e11a4b3-99cb-4c6f-887d-bdaeefd6abea" />
+
+<img width="1064" height="585" alt="image" src="https://github.com/user-attachments/assets/b1615723-df94-44e1-83e1-cbdc015a5e57" />
+
 
 
 # RESULT
+Thus design of low pass FIR digital filter waveforms were plotted and output was verified.
