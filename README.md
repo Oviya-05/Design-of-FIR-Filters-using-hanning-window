@@ -1,4 +1,4 @@
-# Design-of-FIR-Filters-using-hanning-window
+# EXP4C Design-of-FIR-Filters-using-hanning-window
 
 #DESIGN OF FIR DIGITAL FILTER 
 
